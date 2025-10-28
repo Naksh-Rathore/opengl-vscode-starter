@@ -2,7 +2,8 @@
 CXX := g++
 CXXFLAGS := -std=c++17 -Wall -Wextra -O2 \
     -I C:/Users/kumar/glad/include \
-    -I C:/Users/kumar/glfw-3.4.bin.WIN64/glfw-3.4.bin.WIN64/include
+    -I C:/Users/kumar/glfw-3.4.bin.WIN64/glfw-3.4.bin.WIN64/include \
+	-I include/
 
 LDFLAGS := -L C:/Users/kumar/glfw-3.4.bin.WIN64/glfw-3.4.bin.WIN64/lib-mingw-w64 -lglfw3 -lgdi32 -lopengl32
 
