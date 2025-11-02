@@ -2,7 +2,7 @@
 
 ## Overview
 
-A simple repo designed to help you get started on GLFW, . It uses Visual Studio Code, Windows 11 and x64-based processor. The file paths are according to my computer, so I recommend changing them to your own.
+A simple repo designed to help you get started on OpenGL. It uses Visual Studio Code, Windows 11 and x64-based processor. The file paths are according to my computer, so I recommend changing them to your own.
 
 ## Getting Started
 
