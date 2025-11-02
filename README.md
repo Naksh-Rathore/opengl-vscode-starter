@@ -6,7 +6,7 @@ A simple repo designed to help you get started on OpenGL. It uses Visual Studio 
 
 ## Getting Started
 
-1. Clone the repo: git clone `https://github.com/Naksh-Rathore/glfw-glad-opengl-vscode-starter.git`
+1. Clone the repo: git clone `https://github.com/Naksh-Rathore/opengl-vscode-starter.git`
 2. Change the file paths in the project configs to your own
 3. Code something and run it!
 
